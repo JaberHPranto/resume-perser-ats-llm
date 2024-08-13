@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+python-dotenv
+pdf2image
+pyPDF2
+openai==1.16.2
